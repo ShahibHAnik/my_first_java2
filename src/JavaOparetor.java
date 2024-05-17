@@ -1,5 +1,3 @@
-package traning;
-
 public class JavaOparetor {
     public static void main(String[] args) {
 
